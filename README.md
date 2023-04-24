@@ -8,7 +8,7 @@ monitoring.
  - IoT is very useful in this aspect as it replaces the conventional monitoring
 systems with a more efficient scheme, by providing critical information regarding the
 condition of the patient accessible by the doctor.
- - In addition, the nurses or the duty
+ - In addition, the nurses or the duty,
 doctor available at the hospital can monitor the heart rate of the patient in the serial
 monitor through the real-time monitoring system.
 
