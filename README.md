@@ -1,7 +1,7 @@
 # Heart-Rate-Monitor
 
 ## Introduction
-- heart rate monitoring detection system using IoT. Nowadays
+- Heart rate monitoring detection system using IoT. Nowadays
 treatment of most of the heart-related diseases requires continuous as well as long term
 monitoring.
  
